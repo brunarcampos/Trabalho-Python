@@ -189,4 +189,4 @@ Quantidade de caixas utilizadas : 2
 
 ## Autor
 
-Bruna Regina de Campos de Almeida – UniFECAF
+Bruna Regina de Campos de Almeida – UniFECAF + FTR
